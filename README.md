@@ -16,4 +16,4 @@ Email Ids: mukund.mtripathi.met20@itbhu.ac.in / mukundsmith49@gmail.com
 5)	Run `npm install` to install the project dependencies.
 6)	Run `npm start` to start the application on localhost:3000
 
-Link for this App: DashToon (main--sensational-druid-8ee43b.netlify.app)
+Link for this App: [Link](https://main--sensational-druid-8ee43b.netlify.app/)
